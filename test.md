@@ -26,7 +26,7 @@
 
 超链接:[百度](https://www.baidu.com)
 
-图片：![](C:\Users\86130\Pictures\Camera Roll\wallhaven-9mer5w.jpg)
+图片：![](wallhaven-r29gz1.jpg)
 
 ```python
 print("hello,world")
