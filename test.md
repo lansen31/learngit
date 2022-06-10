@@ -26,7 +26,7 @@
 
 超链接:[百度](https://www.baidu.com)
 
-图片：![](wallhaven-r29gz1.jpg)
+图片：![](C:\Users\86130\Pictures\Camera Roll\wallhaven-9mer5w.jpg)
 
 ```python
 print("hello,world")
@@ -41,21 +41,25 @@ $$
 a=10
 $$
 
-> |       快捷键       |        命令        |
-> | :----------------: | :----------------: |
-> |    ***ctrl+T***    |   ***新建表格***   |
-> | ***ctrl+shift+K*** |  ***新建代码块***  |
-> | ***ctrl+shift+M*** |  ***新建公式块***  |
-> |    ***ctrl+K***    |    ***超链接***    |
-> | ***ctrl+shift+I*** |   ***插入图片***   |
-> |    ***ctrl+/***    | ***切换源码模式*** |
-> | ***ctrl+shift+`*** |     ***代码***     |
-> | ***ctrl+shift+[*** |   ***有序列表***   |
-> | ***ctrl+shift+]*** |   ***无序列表***   |
-> | ***ctrl+shift+Q*** |     ***引用***     |
-> |     ***<br>***     |     ***换行***     |
-> |      ***>***       |     ***引用***     |
+> |             快捷键             |        命令        |
+> | :----------------------------: | :----------------: |
+> |          ***ctrl+T***          |   ***新建表格***   |
+> |       ***ctrl+shift+K***       |  ***新建代码块***  |
+> |       ***ctrl+shift+M***       |  ***新建公式块***  |
+> |          ***ctrl+K***          |    ***超链接***    |
+> |       ***ctrl+shift+I***       |   ***插入图片***   |
+> |          ***ctrl+/***          | ***切换源码模式*** |
+> |       ***ctrl+shift+`***       |     ***代码***     |
+> |       ***ctrl+shift+[***       |   ***有序列表***   |
+> |       ***ctrl+shift+]***       |   ***无序列表***   |
+> |       ***ctrl+shift+Q***       |     ***引用***     |
+> |           ***<br>***           |     ***换行***     |
+> |            ***>***             |     ***引用***     |
+> | ***gim rm -r -cached 文件名*** |    ***删除库***    |
 
 ***
 
-> [markdown官网]([Markdown 图片语法 | Markdown 官方教程](https://markdown.com.cn/basic-syntax/images.html))
+> [markdown官网](C:\Users\86130\Pictures\Camera Roll)
+
+
+
