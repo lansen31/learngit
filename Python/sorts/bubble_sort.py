@@ -3,6 +3,8 @@ def bubble_sort(collection):
 
     :param collection: some mutable ordered collection with heterogeneous
     comparable items inside
+
+
     :return: the same collection ordered by ascending
 
     Examples:
