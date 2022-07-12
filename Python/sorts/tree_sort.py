@@ -50,4 +50,6 @@ def tree_sort(arr):
 
 
 if __name__ == "__main__":
-    print(tree_sort([10, 1, 3, 2, 9, 14, 13]))
+    user_input = input("Enter numbers separated by a comma:\n").strip()
+    unsorted = [int(item) for item in user_input.split(",")]
+    print(tree_sort(unsorted))
